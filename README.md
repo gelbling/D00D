@@ -76,4 +76,4 @@ D00D represents a culmination of our skills in robotics, programming, and engine
 
 For inquiries or further information, feel free to contact us.
 
-[Link to Personal Website](https://gelbling.github.io/)
+[Gabriel's Personal Website](https://gelbling.github.io/)
