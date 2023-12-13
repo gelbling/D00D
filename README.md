@@ -33,7 +33,7 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Storage**: Three-tiered internal structure
 
 #### Internal Layout
-- **First Floor**: Battery, fuse block, Arduino MEGA ADK
+- **First Floor**: Battery, fuse block, motors and motor controller, Arduino MEGA ADK
 - **Second Floor**: Sound system (amplifier, speakers, soundboard), LED control
 - **Third Floor**: Food storage with servo motor-operated lid
 
@@ -41,7 +41,7 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 
 ### Features and Functionalities
 - **Auto-Pilot Mode**: Autonomous navigation using sonar sensors
-- **Manual Control**: PS3 controller-operated driving, with ambient sound and music
+- **Manual Control**: PS3 controller joystick operated driving, with ambient sound and music
 - **Routine Operations**:
   - Delivery signaling with LED and sound effects
   - Food pickup indication with audio-visual cues
@@ -56,8 +56,8 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
   - Autonomous and manual navigation
   - Interactive routines for delivery and user engagement
 
-### NFC Integration
-- **Usage**: Confirmation and rating of deliveries
+### NFC Tag Integration
+- **Usage**: Confirmation and rating of deliveries, simply tap smartphone on the tag
 - **Placement**: On the top lid for easy access
 
 ![NFC Integration Image](URL_TO_IMAGE)
@@ -76,4 +76,4 @@ D00D represents a culmination of our skills in robotics, programming, and engine
 
 For inquiries or further information, feel free to contact us.
 
-[Link to Personal Website](YOUR_WEBSITE_URL)
+[Link to Personal Website](https://gelbling.github.io/)
