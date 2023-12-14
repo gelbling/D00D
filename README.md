@@ -4,6 +4,7 @@
 
 Welcome to the repository for D00D, a mid-size, full-motion food delivery droid designed and constructed for the course "Introduction to Droid Building" at the University of Notre Dame. This project showcases our skills in 3D printing, CAD, Arduino programming, and more, culminating in a functional and interactive droid.
 
+Inline-style: 
 ![Image of D00D](https://github.com/gelbling/D00D/blob/master/imgs/profile.JPG)
 
 ### Course Description
