@@ -22,8 +22,6 @@ In this course, we embarked on creating a student-designed droid, inspired by po
 ### Concept and Design
 Our project, D00D, is a food delivery droid. Its unique design includes a custom logo and a structure combining 3D printed elements and foam board.
 
-![Design and Concept Image](URL_TO_IMAGE)
-
 ### Technical Specifications
 - **Frame**: 3D printed front, foam board structure
 - **Battery**: Long-lasting, integrated power system
