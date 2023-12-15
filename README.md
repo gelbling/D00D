@@ -2,9 +2,9 @@
 ### "Delivery Delight, Byte by Byte"
 
 <p align="center" style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="imgs/profile.JPG" alt="profile" width="300" style="margin: 0 10px;"/>
-  <img src="imgs/D00D_logo.png" alt="drawing" width="400" style="margin: 0 10px;"/>
-  <img src="imgs/back.JPG" alt="back" width="300" style="margin: 0 10px;"/>
+  <img src="imgs/profile.JPG" alt="profile" width="250" style="margin: 0 10px;"/>
+  <img src="imgs/D00D_logo.png" alt="drawing" width="300" style="margin: 0 10px;"/>
+  <img src="imgs/back.JPG" alt="back" width="250" style="margin: 0 10px;"/>
 </p>
 
 
