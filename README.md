@@ -1,8 +1,11 @@
 # D00D - The Food Delivery Droid
+### "Delivery Delight, Byte by Byte"
+
 <p align="center">
+  <img src="imgs/profile.JPG" alt="profile" width="400"/>
   <img src="imgs/D00D_logo.png" alt="drawing" width="400"/>
 </p>
-### "Delivery Delight, Byte by Byte"
+
 ## Introduction to Droid Building (CSE 40883) - University of Notre Dame
 
 Welcome to the repository for D00D, a mid-size, full-motion food delivery droid designed and constructed for the course "Introduction to Droid Building" at the University of Notre Dame. This project showcases our skills in 3D printing, CAD, Arduino programming, and more, culminating in a functional and interactive droid.
