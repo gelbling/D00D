@@ -5,6 +5,7 @@
 Welcome to the repository for D00D, a mid-size, full-motion food delivery droid designed and constructed for the course "Introduction to Droid Building" at the University of Notre Dame. This project showcases our skills in 3D printing, CAD, Arduino programming, and more, culminating in a functional and interactive droid.
 
 ![Image of D00D](https://github.com/gelbling/D00D/blob/master/imgs/profile.JPG)
+![Image of D00D](https://github.com/gelbling/D00D/blob/master/imgs/back.JPG)
 
 ### Course Description
 In this course, we embarked on creating a student-designed droid, inspired by popular Sci-Fi movies. Our journey involved:
@@ -47,10 +48,9 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
   - Food pickup indication with audio-visual cues
   - Interaction routine for path obstructions
 
-[**Path Obstruction Routine**](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
+[**Path Obstruction Routine Video**](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
 
-**Delivery Pickup Routine**
-![Feature Demonstration Image](URL_TO_IMAGE)
+[**Delivery Pickup Routine**](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
 
 ### Code and Control
 - **Programming Language**: C++
@@ -63,14 +63,14 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Usage**: Confirmation and rating of deliveries, simply tap smartphone on the tag
 - **Placement**: On the top lid for easy access
 
-![NFC Integration Image](URL_TO_IMAGE)
+![NFC Integration Image](https://github.com/gelbling/D00D/blob/master/imgs/top_view.JPG)
 
 ## Gallery
 Include a series of images showcasing your droid in various stages of construction, operation, and in action.
 
-![Gallery Image 1](URL_TO_IMAGE)
-![Gallery Image 2](URL_TO_IMAGE)
-![Gallery Image 3](URL_TO_IMAGE)
+![Gallery Image 1](https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels.jpg)
+![Gallery Image 2](https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels_vertical.jpg)
+![Gallery Image 3](https://github.com/gelbling/D00D/blob/master/imgs/profile2.JPG)
 
 ## Conclusion
 D00D represents a culmination of our skills in robotics, programming, and engineering. This project not only demonstrates our technical abilities but also our creativity and problem-solving skills in real-world applications.
