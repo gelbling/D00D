@@ -48,9 +48,9 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
   - Interaction routine for path obstructions
 
 **Path Obstruction Routine**
-<video width="320" height="240" controls>
+[<video width="320" height="240" controls>
   <source src="https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV" type="video/mp4">
-</video>
+</video>](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
 
 **Delivery Pickup Routine**
 ![Feature Demonstration Image](URL_TO_IMAGE)
