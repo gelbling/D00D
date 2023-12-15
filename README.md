@@ -1,6 +1,5 @@
 # D00D - The Food Delivery Droid
-![Image of D00D](https://github.com/gelbling/D00D/blob/master/imgs/D00D_logo.png)
-<img src="imgs/D00D_logo.png" alt="drawing" width="200"/>
+<img src="imgs/D00D_logo.png" alt="drawing" width="400"/>
 ### "Delivery Delight, Byte by Byte"
 ## Introduction to Droid Building (CSE 40883) - University of Notre Dame
 
