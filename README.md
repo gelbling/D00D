@@ -1,5 +1,7 @@
 # D00D - The Food Delivery Droid
-<img src="imgs/D00D_logo.png" alt="drawing" width="400"/>
+<p align="center">
+  <img src="imgs/D00D_logo.png" alt="drawing" width="400"/>
+</p>
 ### "Delivery Delight, Byte by Byte"
 ## Introduction to Droid Building (CSE 40883) - University of Notre Dame
 
