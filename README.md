@@ -12,6 +12,8 @@
 
 Welcome to the repository for D00D, a mid-size, full-motion food delivery droid designed and constructed for the course "Introduction to Droid Building" at the University of Notre Dame. This project showcases our skills in 3D printing, CAD, Arduino programming, and more, culminating in a functional and interactive droid.
 
+By: Gabriel Amodeo Elbling (gelbling@nd.edu) and Will DiMartini (wdimarti@nd.edu)
+
 ### Course Description
 In this course, we embarked on creating a student-designed droid, inspired by popular Sci-Fi movies. Our journey involved:
 
@@ -20,7 +22,7 @@ In this course, we embarked on creating a student-designed droid, inspired by po
 - Electrical Circuitry
 - Sound & Lighting Systems
 - Communication Protocols (Serial, I2C, Bluetooth)
-- Arduino Programming
+- Arduino C++ Programming
 
 ## Project Overview
 
@@ -44,7 +46,7 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 ![Internal Structure Image](https://github.com/gelbling/D00D/blob/master/imgs/inside.JPG)
 
 ### Features and Functionalities
-- **Auto-Pilot Mode**: Autonomous navigation using sonar sensors
+- **Auto-Pilot Mode**: Autonomous navigation, inside an arbitrarily large square box, using sonar sensors
 - **Manual Control**: PS3 controller joystick operated driving, with ambient sound and music
 - **Routine Operations**:
   - Delivery signaling with LED and sound effects
