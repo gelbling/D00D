@@ -52,7 +52,7 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Third Floor**: Food storage with servo motor-operated lid
 
 <p align="center">
-  <img src="https://github.com/gelbling/D00D/blob/master/imgs/inside.JPG" width="500"/>
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/inside.JPG" width="400"/>
 </p>
 
 ### Features and Functionalities
@@ -75,7 +75,7 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Placement**: On the top lid for easy access
 
 <p align="center">
-  <img src="https://github.com/gelbling/D00D/blob/master/imgs/top_view.JPG" width="500"/>
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/top_view.JPG" width="400"/>
 </p>
 
 ## Gallery
