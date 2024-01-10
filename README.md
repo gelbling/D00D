@@ -63,10 +63,6 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
   - Food pickup indication with audio-visual cues
   - Interaction routine for path obstructions
 
-[**Path Obstruction Routine Video**](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
-
-[**Delivery Pickup Routine**](https://github.com/gelbling/D00D/blob/master/imgs/please_move.MOV)
-
 ### Code and Control
 - **Programming Language**: C++
 - **Control Board**: Arduino MEGA ADK
@@ -78,14 +74,18 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Usage**: Confirmation and rating of deliveries, simply tap smartphone on the tag
 - **Placement**: On the top lid for easy access
 
-![NFC Integration Image](https://github.com/gelbling/D00D/blob/master/imgs/top_view.JPG)
+<p align="center">
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/top_view.JPG" width="500"/>
+</p>
 
 ## Gallery
 Include a series of images showcasing your droid in various stages of construction, operation, and in action.
 
-![Gallery Image 1](https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels.jpg)
-![Gallery Image 2](https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels_vertical.jpg)
-![Gallery Image 3](https://github.com/gelbling/D00D/blob/master/imgs/profile2.JPG)
+<p align="center">
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels.jpg" alt="Gallery Image 1" width="200"/>
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels_vertical.jpg" alt="Gallery Image 2" width="200"/>
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/profile2.JPG" alt="Gallery Image 3" width="200"/>
+</p>
 
 ## Conclusion
 D00D represents a culmination of our skills in robotics, programming, and engineering. This project not only demonstrates our technical abilities but also our creativity and problem-solving skills in real-world applications.
