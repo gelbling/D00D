@@ -1,7 +1,7 @@
 # D00D - The Food Delivery Droid
 ### "Delivery Delight, Byte by Byte"
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="imgs/profile.JPG" alt="profile" width="300" style="margin: 0 5px;"/>
   <img src="imgs/D00D_logo.png" alt="drawing" width="250" style="margin: 0 5px;"/>
   <img src="imgs/back.JPG" alt="back" width="300" style="margin: 0 5px;"/>
