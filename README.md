@@ -51,7 +51,9 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 - **Second Floor**: Sound system (amplifier, speakers, soundboard), LED control
 - **Third Floor**: Food storage with servo motor-operated lid
 
-![Internal Structure Image](https://github.com/gelbling/D00D/blob/master/imgs/inside.JPG)
+<p align="center">
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/inside.JPG" width="200"/>
+</p>
 
 ### Features and Functionalities
 - **Auto-Pilot Mode**: Autonomous navigation, inside an arbitrarily large square box, using sonar sensors
