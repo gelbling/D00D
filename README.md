@@ -82,9 +82,15 @@ Our project, D00D, is a food delivery droid. Its unique design includes a custom
 Include a series of images showcasing your droid in various stages of construction, operation, and in action.
 
 <p align="center">
-  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels.jpg" alt="Gallery Image 1" width="200"/>
-  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels_vertical.jpg" alt="Gallery Image 2" width="200"/>
-  <img src="https://github.com/gelbling/D00D/blob/master/imgs/profile2.JPG" alt="Gallery Image 3" width="200"/>
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels.jpg" alt="Gallery Image 1" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/base%2Bwheels_vertical.jpg" alt="Gallery Image 2" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/gelbling/D00D/blob/master/imgs/profile2.JPG" alt="Gallery Image 3" width="400"/>
 </p>
 
 ## Conclusion
