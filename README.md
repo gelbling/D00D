@@ -95,9 +95,3 @@ Include a series of images showcasing your droid in various stages of constructi
 
 ## Conclusion
 D00D represents a culmination of our skills in robotics, programming, and engineering. This project not only demonstrates our technical abilities but also our creativity and problem-solving skills in real-world applications.
-
----
-
-For inquiries or further information, feel free to contact us.
-
-[Gabriel's Personal Website](https://gelbling.github.io/)
