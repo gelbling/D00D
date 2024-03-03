@@ -22,7 +22,7 @@ Welcome to the repository for D00D, a mid-size, full-motion food delivery droid 
 
 By: Gabriel Amodeo Elbling (gelbling@nd.edu) and Will DiMartini (wdimarti@nd.edu)
 
-### Course Description
+## Course Description
 In this course, we embarked on creating a student-designed droid, inspired by popular Sci-Fi movies. Our journey involved:
 
 - 3D Printing & CAD Design
