@@ -1,5 +1,5 @@
 # D00D - The Food Delivery Droid
-## "Delivery Delight, Byte by Byte"
+# "Delivery Delight, Byte by Byte"
 
 <table align="center">
   <tr>
